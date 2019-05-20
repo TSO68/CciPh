@@ -1,5 +1,5 @@
 import bleStore from "./BleStore";
 
-export default {
+export default{
     bleStore
 }
